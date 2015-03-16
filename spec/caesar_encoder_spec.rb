@@ -11,7 +11,7 @@ describe "encodes a string" do
 
   it "returns the same value if the number is divisible by 26" do
     expect(caesar_encode('a', 26)).to eq('a')
-    expect(caesar_decode('a', 52)).to eq('a')
+    expect(caesar_encode('a', 52)).to eq('a')
   end
 
   it "preserves uppercase" do
