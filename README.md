@@ -7,4 +7,4 @@ In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift ciphe
 
 You'll be writing a caeser encoder and decoder. Each method takes a string and the offset. The encoder converts the letter a with an offset of 3 to the letter d. A capital letter is always converted to a capital letter i.e Z with an offset of 2 is B. Spaces and punctuation are ignored. The decoder works in reverse.
 
-<a href='https://learn.co/lessons/caesar-cipher' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/caesar-cipher' title='Caeser Cipher'>Caeser Cipher</a> on Learn.co and start learning to code for free.</p>
